@@ -64,7 +64,7 @@ python prediction.py --image_path path_to_image.jpg
 
 📸 Example Prediction
 
-Below is an example of the model predicting the emotion "Surprise" 🎉:
+Below is an example of the model predicting the emotion "Surprise" :
 
 real_time_img_emotion_surprised.png
 
